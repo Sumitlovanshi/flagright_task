@@ -1,0 +1,30 @@
+.points-container {
+  /* border: 1px solid red; */
+  display: flex;
+  align-items: flex-start;
+  width: 30vw;
+  margin: 40px 0;
+}
+
+.right-img {
+  height: 20px;
+  margin: 2px;
+}
+
+.points-wrapper {
+  padding-left: 15px;
+}
+
+.points-heading {
+  color: #252f4f;
+  font-weight: 600;
+  font-size: 0.95rem;
+  margin-bottom: 12px;
+}
+
+.points-description {
+  color: #616776;
+  font-size: 0.85rem;
+  font-weight: 500;
+  line-height: 1.2rem;
+}

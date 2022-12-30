@@ -1,0 +1,11 @@
+.tabs-wrapper {
+  /* border: 1px solid red; */
+  width: 60vw;
+}
+
+.tabs-list {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 100%;
+}

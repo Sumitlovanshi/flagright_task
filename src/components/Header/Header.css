@@ -1,0 +1,24 @@
+.header-wrapper {
+  /* border: 1px solid red; */
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  width: 100vw;
+  padding: 40px 0;
+}
+
+.main-heading {
+  color: #252f4f;
+  font-weight: bolder;
+  font-size: 1.5rem;
+  margin-bottom: 15px;
+  text-align: center;
+}
+
+.sub-heading {
+  color: #252f4f;
+  font-weight: 600;
+  font-size: small;
+  text-align: center;
+}

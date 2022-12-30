@@ -1,0 +1,19 @@
+.btn-wrapper {
+  display: flex;
+  align-items: center;
+}
+
+.btn {
+  background-color: #f8fafe;
+  color: #2969f9;
+  border: none;
+  display: flex;
+  align-items: center;
+  margin: 0 15px 0 28px;
+  font-weight: bold;
+}
+
+.btn,
+.btn-img {
+  cursor: pointer;
+}

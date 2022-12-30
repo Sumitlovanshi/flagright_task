@@ -1,0 +1,28 @@
+.tabs-name-wrapper {
+  display: flex;
+  /* border: 1px solid red; */
+  border-radius: 40px;
+  align-items: center;
+  padding: 15px;
+  border: none;
+  background-color: #f8fafe;
+  transition: 0.3s;
+  color: #252f4f;
+  font-size: 0.85rem;
+  font-weight: 500;
+}
+
+.tabs-img {
+  height: 18px;
+  margin-right: 8px;
+}
+
+.tabs-name-wrapper:hover {
+  cursor: pointer;
+}
+
+.tabs-name-wrapper:focus {
+  cursor: pointer;
+  background-color: #121f40;
+  color: #b7c6df;
+}
